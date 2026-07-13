@@ -88,21 +88,8 @@ A smart wearable safety system that detects emergencies using sensor data and an
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjan-r-24&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-r-24&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Niranjan-r-24&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Niranjan-r-24&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-r-24&layout=compact&theme=tokyonight" />
 </p>
 
 ---
