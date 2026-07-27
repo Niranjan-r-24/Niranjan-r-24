@@ -97,7 +97,7 @@ A smart wearable safety system that detects emergencies using sensor data and an
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/niranjan-ramachandaran
-- 🌍 Portfolio: https://professional-portfolio-two-iota.vercel.app/
+- 🌍 Portfolio: niranjan-r-portfolio.vercel.app
 - 📧 Email: niranjanr2405@gmail.com
 
 ---
