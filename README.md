@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Niranjan Header"/>
+</p>
 
 # 👋 Hi, I'm Niranjan R
 
