@@ -201,3 +201,6 @@ niranjanr2405@gmail.com
 ---
 
 ⭐ Building AI products that solve real-world problems through GenAI, Agentic AI, and intelligent automation.
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
+</p>
