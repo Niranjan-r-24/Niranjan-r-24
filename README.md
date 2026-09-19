@@ -1,117 +1,203 @@
-# Hi there, I'm Niranjan R 👋
 
-<h3 align="center">
-🚀 Python Developer | Full Stack Learner | AI Enthusiast | Open Source Explorer
-</h3>
+# 👋 Hi, I'm Niranjan R
+
+<h3 align="center">GenAI & Agentic AI Developer | Python Backend Developer | FastAPI Enthusiast</h3>
 
 <p align="center">
-Building intelligent applications with Python, React, and AI while continuously learning modern software development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+Products+for+Real-World+Problems;GenAI+%7C+Agentic+AI+%7C+RAG+Systems;FastAPI+Backend+Developer;Transforming+Ideas+into+Intelligent+Applications" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering | Aspiring Software Developer
-- 💻 Transitioning into Software Development & AI
-- 🌱 Currently learning **Advanced Python, React, FastAPI, GenAI & Agentic AI**
-- 🔭 Building real-world projects to strengthen my development skills
-- 🤖 Interested in AI, Backend Development, Full Stack Development, and Automation
-- 🎯 Goal: Become an AI Software Engineer and contribute to impactful products
-- ⚡ I enjoy solving problems, building projects, and learning new technologies every day.
+🎓 Final Year B.E Electronics & Communication Engineering Student
+
+🤖 Aspiring GenAI & Agentic AI Developer
+
+💻 Focused on Python Backend Development
+
+⚡ Building AI-powered applications using FastAPI, LangChain and RAG
+
+🎯 Goal: Become a GenAI / Agentic AI Developer
+
+🌱 Currently Learning:
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Advanced RAG Pipelines
+- AI Product Engineering
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" />
+</p>
 
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![ThingSpeak](https://img.shields.io/badge/ThingSpeak-EF3E42?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
+### AI & GenAI
+- LangChain
+- RAG
+- Agentic AI
+- Prompt Engineering
+- LLM Applications
+- Vector Search
 
 ---
 
-## 🌟 Featured Projects
+## 🔥 Featured Projects
 
-### 🤖 Resume AI Analyzer
-An AI-powered web application that analyzes resumes, calculates ATS scores, and recommends suitable job roles based on skills.
+### 
+### 🛒 ShopMate AI – Enterprise Agentic Retail Assistant
 
-**Tech Stack**
+An AI-powered retail intelligence platform that helps customers discover products, compare options, receive personalized recommendations, and make informed purchasing decisions through natural language conversations.
+
+#### Key Features
+
+- 🤖 Multi-Agent AI Architecture
+- 🔍 Intelligent Product Search & Discovery
+- 💬 Conversational Shopping Assistant
+- 🎯 Personalized Product Recommendations
+- 📄 RAG-Powered Knowledge Retrieval
+- 🛍️ Product Comparison & Decision Support
+- 📊 Business Insights & Analytics
+- 📦 Inventory & Catalog Intelligence
+- 🌐 Real-Time Retail Data Access
+- ⚡ Context-Aware Customer Interactions
+
+#### AI Agents
+
+- Product Discovery Agent
+- Recommendation Agent
+- Customer Support Agent
+- Catalog Retrieval Agent
+- Analytics & Insights Agent
+- Order Assistance Agent
+
+#### Tech Stack
+
 - Python
 - FastAPI
+- LangChain
+- OpenAI API / Gemini API
+- ChromaDB / Vector Database
+- PostgreSQL
+- SQLAlchemy
 - React
-- PDF Processing
-- Machine Learning
+- Tailwind CSS
 
----
+#### Business Impact
 
-### 🚨 Women Safety Band using AI
-A smart wearable safety system that detects emergencies using sensor data and an Isolation Forest Machine Learning model.
+- Reduces customer search time
+- Improves product discovery experience
+- Delivers personalized shopping journeys
+- Automates repetitive customer queries
+- Supports data-driven retail decisions
+
+🔗 Live Demo:
+https://shopmate-ai.vercel.app
+
+### 📊 Autonomous Text-to-SQL Analytics
+
+AI-powered business intelligence platform that enables users to query databases using natural language.
 
 **Features**
-- AI-based anomaly detection
-- GPS Location Tracking
-- Emergency SOS Alerts
-- ESP32 + ThingSpeak Integration
+- Multi-Agent Architecture
+- Text-to-SQL Generation
+- RAG-based Document Intelligence
+- Automated Data Visualization
+- Executive Summaries with Citations
+
+**Tech Stack**
+- FastAPI
+- LangChain
+- Gemini API
+- OpenAI API
+- SQLAlchemy
+- PostgreSQL
+- SQLite
+- React
+
+🔗 Live Demo:
+https://autonomos-text-to-sql-analytics.vercel.app
 
 ---
 
-## 📚 Currently Learning
+### 📄 ResumeAI Analyzer
 
-- Advanced Python
-- Data Structures & Algorithms
-- React Ecosystem
-- FastAPI
-- Generative AI
-- Agentic AI
+AI-powered ATS Resume Analyzer that:
+
+- Parses resumes
+- Calculates ATS scores
+- Suggests improvements
+- Recommends suitable job roles
+
+🔗 Live Demo:
+https://resume-ai-analyser.vercel.app
+
+---
+
+### 🛡️ AI Women Safety Band
+
+Smart emergency detection system using:
+
+- ESP32
+- MPU6050
+- Pulse Sensor
+- GPS & GSM
+- ThingSpeak Cloud
+- Isolation Forest Machine Learning Model
+
+Features:
+- Emergency Detection
+- GPS Location Tracking
+- Automated SOS Alerts
+- Reduced False Positives using AI
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Niranjan-r-24&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Niranjan-r-24&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Niranjan-r-24&show_icons=true&theme=tokyonight"/>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/niranjan-ramachandaran
-- 🌍 Portfolio: https://niranjan-r-portfolio.vercel.app/
-- 📧 Email: niranjanr2405@gmail.com
-
----
-
-## 💡 Quote
-
-> "Every expert was once a beginner. Consistency turns effort into excellence."
-
----
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Let's build something amazing together 🚀
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-r-24&theme=tokyonight"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-r-24&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://professional-portfolio-two-iota.vercel.app/
+
+---
+
+## 📫 Connect With Me
+
+💻 GitHub:
+https://github.com/Niranjan-r-24
+
+🌐 Portfolio:
+https://professional-portfolio-two-iota.vercel.app/
+
+🔗 LinkedIn:
+www.linkedin.com/in/niranjan-ramachandaran
+
+📧 Email:
+niranjanr2405@gmail.com
+
+---
+
+⭐ Building AI products that solve real-world problems through GenAI, Agentic AI, and intelligent automation.
