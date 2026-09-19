@@ -179,6 +179,10 @@ Features:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjan-r-24&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="quote.svg" width="100%" style="max-width: 720px;" alt="Quote" />
+</p>
+
 ---
 
 ## 🌐 Portfolio
