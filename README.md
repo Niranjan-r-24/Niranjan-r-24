@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Niranjan Header"/>
+  <img src="header.svg" width="100%" alt="Niranjan Header"/>
 </p>
 
 # 👋 Hi, I'm Niranjan R
@@ -209,5 +209,5 @@ niranjanr2405@gmail.com
 
 ⭐ Building AI products that solve real-world problems through GenAI, Agentic AI, and intelligent automation.
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="footer.svg" width="100%" alt="Footer" />
 </p>
